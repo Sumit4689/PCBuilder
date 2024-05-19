@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">PC Builder</string>
+    <string name="addimage">addimage</string>
+    <string name="add">add\n</string>
+    <string name="pc_builder">PC Builder</string>
+    <string name="About">About</string>
+    <string name="New_Build">New Build</string>
+    <string name="saveicon">Save icon</string>
+    <string name="total">TOTAL : </string>
+    <string name="compatib">COMPATIBLE</string>
+    <string name="tdp">power requirement</string>
+    <string name="processor">PROCESSOR</string>
+    <string name="cpuCooler">CPU COOLER</string>
+    <string name="motherboard">MOTHERBOARD</string>
+    <string name="gpu">GPU</string>
+    <string name="memory">MEMORY</string>
+    <string name="storage">STORAGE</string>
+    <string name="powersupply">POWER SUPPLY</string>
+    <string name="cabinet">CASE</string>
+</resources>
